@@ -1,4 +1,4 @@
-# XAVIABOT 
+# KURAPIKOBOT
 
 [![Original](https://img.shields.io/badge/Original-XaviaTeam-blue?style=flat-square)](https://github.com/XaviaTeam/XaviaBot)
 
@@ -20,7 +20,7 @@
 Modified version. Use at your own risk.
 
 ## Credits
-- Original: [XaviaTeam](https://github.com/XaviaTeam)
-- Fixes: Rapido
+- Original : [XaviaTeam](https://github.com/XaviaTeam)
+- Modify : KurapikoNakarama
 
 
